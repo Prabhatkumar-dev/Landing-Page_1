@@ -24,25 +24,24 @@ This project was created as part of my **self-learning journey** to explore anim
 ---
 
 ## 📸 Live / Demo
-     https://github.com/Prabhatkumar-dev/Landing-Page_1/blob/main/one/finalshare%20-%20Made%20with%20Clipchamp_1756788184438.mp4
-     LinkedIn : 
+https://www.linkedin.com/posts/prabhat-kumar-34a657282_webdevelopment-javascript-gsap-activity-7368530469031772160-XDjN?utm_source=share&utm_medium=member_android&rcm=ACoAAETLrioBAeSRakws-XG5wjIpcmV8ZY_AjuE 
 
 
 
 ## 🎯 Learning Outcomes
 
 This project helped me understand:
-How to structure and style a responsive landing page
-Using GSAP for timeline-based animation
-Implementing Locomotive Scroll for smooth scrolling and parallax effects
-Combining multiple libraries with clean, maintainable code
-Building from scratch without frameworks (only vanilla JS)
+- How to structure and style a responsive landing page
+- Using GSAP for timeline-based animation
+- Implementing Locomotive Scroll for smooth scrolling and parallax effects
+- Combining multiple libraries with clean, maintainable code
+- Building from scratch without frameworks (only vanilla JS)
 
 ## 📌 Future Improvements
 
-Add more sections (About, Services, Contact)
-Improve accessibility (ARIA roles, keyboard navigation)
-Optimize for performance and SEO
-Deploy live using GitHub Pages or Vercel
+- Add more sections (About, Services, Contact)
+- Improve accessibility (ARIA roles, keyboard navigation)
+- Optimize for performance and SEO
+- Deploy live using GitHub Pages or Vercel
 
 

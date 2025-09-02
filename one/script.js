@@ -1,19 +1,10 @@
-// import LocomotiveScroll from 'locomotive-scroll';
+//hope
 
 const scroll = new LocomotiveScroll({
-    el: document.querySelector("#main"),
+    el: document.querySelector("#hope"),
     smooth: true
 });
 
-// let main = document.querySelector("#main");
-// let cursor = document.querySelector("#minicircle");
-// window.addEventListener("mousemove",function(dets){
-//     gsap.to(cursor,{
-//         x: dets.x ,
-//         y: dets.y ,
-//         duration : 0.2
-//     })
-// })
 
 function firstPageAnimation(){
     var tl =gsap.timeline();
